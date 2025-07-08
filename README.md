@@ -11,7 +11,6 @@ This repository contains a **comprehensive guide** to setting up **Jenkins in Do
 ## 📄 Document Summary
 
 The main document (`jenkins_docker_setup.md`) provides:
-
 - ✅ Step-by-step **installation** using Docker and Docker Compose  
 - 💾 Setup for **persistent data storage** on mounted volumes  
 - 🔐 Configurations for **security**, **backups**, **restore**, and **plugin management**  
@@ -41,7 +40,19 @@ cd /home/jenkins_data
 docker compose up -d
 #or
 #docker-compose up -d (if older version)
+```
 
+---
 
-Shubham Kapadnis
-Cloud & DevOps Engineer | Infrastructure Automation | Cloud-Native Enthusiast
+## 👨‍💻 Author
+
+**Shubham Kapadnis**  
+*Cloud & DevOps Engineer | Infrastructure Automation | Cloud-Native Enthusiast*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shubham-kapadnis)
+
+---
+
+## 🤝 Contributing
+
+Feel free to submit issues and enhancement requests!
