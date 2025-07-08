@@ -3,6 +3,10 @@
 ## Document Overview
 This document provides a complete, self-explanatory guide for setting up Jenkins using Docker with persistent data storage. It serves as both a setup guide and knowledge transfer document for everyone.
 
+<p align="center">
+  <img src="https://www.jenkins.io/images/logos/jenkins/jenkins.png" width="150" alt="Jenkins Logo">
+</p>
+
 **Document Version**: 1.0  
 **Last Updated**: July 2025  
 **Author**: Shubham Kapadnis
