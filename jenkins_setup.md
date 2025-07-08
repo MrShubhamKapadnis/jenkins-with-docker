@@ -999,12 +999,15 @@ services:
 
 ---
 
-## Document Revision History
+## 👨‍💻 Author
 
-| Version | Date | Changes | Author |
-|---------|------|---------|---------|
-| 1.0 | July 2025 | Initial documentation | Shubham kapadnis |
+**Shubham Kapadnis**  
+*Cloud & DevOps Engineer | Infrastructure Automation | Cloud-Native Enthusiast*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shubham-kapadnis)
 
 ---
 
-**End of Document**
+## 🤝 Contributing
+
+Feel free to submit issues and enhancement requests!
